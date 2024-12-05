@@ -114,7 +114,7 @@ viajeFacil(Estacion1, Estacion2) :- combinacion(Combinacion), member(Estacion1, 
 
 
 
-
+% --- Viajes
 % Una agencia de viajes lleva un registro con todos los vuelos que maneja de la siguiente manera:
 % vuelo(Codigo de vuelo, capacidad en toneladas, [lista de destinos]).
 % Esta lista de destinos está compuesta de la siguiente manera:
