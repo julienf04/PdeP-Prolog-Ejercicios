@@ -1,4 +1,4 @@
-### Práctica de un parcial del paradigma orientado a objetos
+### Práctica de Prolog
 
 Estoy en Ingeniería en Sistemas de Información, y hay una materia que se llama "Paradigmas de Programación".
 
